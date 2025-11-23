@@ -9,7 +9,7 @@ This project showcases my skills, projects, and experience as a frontend develop
 ##  Live Demo
 
 - Open in new tab
- [View Live Site](https://my-portfolio-react-8fms.vercel.app/)
+ [View Live Site](https://myportfolio-react-7mfi.vercel.app/)
 
 ---
 

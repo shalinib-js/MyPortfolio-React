@@ -1,20 +1,80 @@
+## My Portfolio
 
-# React + Vite
+Welcome to my personal portfolio website built with **React** and **Vite**.  
+This project showcases my skills, projects, and experience as a frontend developer.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  Live Demo
 
-## React Compiler
+- Open in new tab
+ [View Live Site](https://my-portfolio-react-8fms.vercel.app/)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+##  Built With
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# MyPortfolio-React
->>>>>>> 0ba7037d6c69036fe8896fb3dd9a98f011ee3a46
+- React
+- Vite
+- React Router
+- HTML5 & CSS3
+- JavaScript (ES6+)
+
+---
+
+##  Features
+
+- Responsive design (works on mobile, tablet, and desktop)
+- Navigation with React Router
+- Projects section showcasing real projects
+- Contact form for visitors to reach out
+- Smooth animations and interactive UI
+ 
+---
+  ## Screenshot
+
+![Portfolio-Fullview](https://github.com/user-attachments/assets/8cc27e7c-a58c-4e39-9bb3-468c5a62cdc4)
+---
+
+## 📂 Project Structure
+<pre>
+MyPortfolio-React/
+├─ public/
+├─ src/
+│  ├─ components/
+│  │  ├─ Navbar.jsx
+│  │  ├─ Hero.jsx
+│  │  ├─ About.jsx
+│  │  ├─ Skills.jsx
+│  │  ├─ Projects.jsx
+│  │  ├─ RoleTypewriter.jsx
+│  │  ├─ Contact.jsx
+│  │  └─ Footer.jsx
+│  ├─ images/
+│  │  └─ *.png
+│  ├─ pages/
+│  │  └─ Home.jsx
+│  ├─ App.jsx
+│  ├─ index.css
+│  └─ main.jsx
+├─ package.json
+├─ vite.config.js
+└─ README.md
+
+</pre>
+
+
+
+---
+
+##  Getting Started
+
+### Clone the repo
+```bash
+git clone https://github.com/shalinib-js/MyPortfolio-React.git
+cd MyPortfolio-React
+npm install
+npm run dev
+
+

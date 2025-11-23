@@ -47,8 +47,8 @@ const Projects = () => {
       title: "MY Portfolio Website",
       desc: "A responsive and interactive portfolio built with React and Tailwind CSS, featuring smooth transitions, and hover effects for a modern user experience.",
       img: PortfolioWebsite,
-      demo: "https://your-job-demo.com",
-      code: "https://github.com/yourrepo/job-tracker"
+      demo: "https://myportfolio-react-7mfi.vercel.app/",
+      code: "https://github.com/shalinib-js/MyPortfolio-React"
     }
   ];
 

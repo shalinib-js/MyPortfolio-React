@@ -17,4 +17,4 @@ Please change the parent <Route path="${q}"> to <Route path="${q==="/"?"*":`${q}
     after:transition-all after:duration-300\r
     hover:after:w-full\r
     active:after:w-full \r
-    hover:text-purple group`,onClick:()=>i(!1),children:u.charAt(0).toUpperCase()+u.slice(1)},u))})})]})};function bE(){return N.jsxs(N.Fragment,{children:[N.jsx(vE,{}),N.jsx(MS,{children:N.jsx(hg,{path:"/",element:N.jsx(rE,{})})})]})}jb.createRoot(document.getElementById("root")).render(N.jsx(kS,{children:N.jsx(bE,{})}));
+    hover:text-purple group`,onClick:()=>i(!1),children:u.charAt(0).toUpperCase()+u.slice(1)},u))})})]})};function bE(){return N.jsxs(N.Fragment,{children:[N.jsx(vE,{}),N.jsx(MS,{children:N.jsx(hg,{path:"/",element:N.jsx(rE,{})})})]})}jb.createRoot(document.getElementById("root")).render(N.jsx(kS,{basename:"/MyPortfolio-React/",children:N.jsx(bE,{})}));
